@@ -233,6 +233,10 @@ a:hover{
 		display: none;
 	}
 
+	.wave2{
+		display: none;
+	}
+
 	.login-content{
 		justify-content: center;
 	}
