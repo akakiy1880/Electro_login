@@ -18,7 +18,7 @@ inputs.forEach(input => {
 	input.addEventListener("blur", remcl);
 });
 
-login_btn.onclick = function () {
+function check() {
 	let login = document.getElementById("username").value;
 	let password = document.getElementById("password").value;
 	if (login == "" || password == "") {
@@ -28,10 +28,7 @@ login_btn.onclick = function () {
 		alert(`Пароль не может быть короче 8 символов.`);
 	}
 	else {
-		let url = "https://akakiy1880.github.io/Subscribe/"
-		document.location.href = url;
-		alert("");
-		// alert(`Логин: ${login}\n` + 
-		// 	  `Пароль: ${password}`);
+		document.getElementById("login_btn").onclick = function(){
+  		document.location.href = "http://t.me/AlexPoluyanov";}
 	}
 };
