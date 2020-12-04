@@ -4,10 +4,6 @@
 	box-sizing: border-box;
 }
 
-.title{
-	text-align: center;
-}
-
 body{
     font-family: 'Poppins', sans-serif;
     overflow: hidden;
@@ -18,9 +14,18 @@ body{
 	bottom: 0;
 	left: 0;
 	height: 100%;
+	width: 30%;
 	z-index: -1;
 }
 
+.wave2{
+	position: fixed;
+	top: 0;
+	right: 0;
+	height: 100%;
+	width: 30%;
+	z-index: -1;
+}
 .container{
     width: 100vw;
     height: 100vh;
@@ -29,7 +34,9 @@ body{
     grid-gap :7rem;
     padding: 0 2rem;
 }
-
+.title{
+	text-shadow:0px 0px 10px #fff;
+}
 .img{
 	display: flex;
 	justify-content: flex-end;
