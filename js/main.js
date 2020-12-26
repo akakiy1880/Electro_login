@@ -32,3 +32,10 @@ function check() {
   		document.location.href = "http://t.me/AlexPoluyanov";}
 	}
 };
+
+document.getElementsByClassName('list_lang')[0].onclick = function() {
+	var el = document.getElementsByClassName('list_lang')[0];
+	el.style.display = 'none';
+	var elem = document.getElementsByClassName('dropdown-child')[0];
+	elem.style.display = 'block';
+};

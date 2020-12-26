@@ -208,7 +208,7 @@ a{
 	transition: .3s;
 }
 
-a:hover{
+form a:hover{
 	color: #333333;
 }
 
