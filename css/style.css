@@ -275,7 +275,7 @@ a:hover{
 		color: #333;
 	}
 	.dropdown-child {
-		background-color: #fff;
+		background-color: transparent;
 	}
 	.dropdown-child a {
 		color: #333;
