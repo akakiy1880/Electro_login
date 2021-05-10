@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Electro Login 
 
-You can use the [editor on GitHub](https://github.com/akakiy1880/Electro_login/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Electro Login - it is a web page was designed to create a registration window and enter the personal account of the Green TE electric car charging service.
+[Click](http://greente.uz/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technology stack:
+- HTML
+- CSS
+- JavaScript
 
-### Markdown
+The web page is designed with responsiveness for mobile devices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Screen on desktop:
+![Desktop Screen](https://mini.s-shot.ru/1920x1200/JPEG/1920/Z100/?greente.uz%2F "Desktop Screen")
 
-```markdown
-Syntax highlighted code block
+Screen on mobile:
+![Mobile Screen](https://mini.s-shot.ru/800x600/JPEG/800/Z100/?greente.uz%2F "Mobile Screen")
 
-# Header 1
-## Header 2
-### Header 3
+Design was created in Figma app.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akakiy1880/Electro_login/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+@2021 Alex Poluyanov
